@@ -1,0 +1,39 @@
+td{
+
+   
+    height: 180px;
+    width: px;
+
+    
+}
+table{
+
+    margin: 5px auto;
+}
+
+.fst
+{
+     border-right: 2px solid black;
+     border-bottom: 2px solid black;
+}
+
+.trd
+{
+     border-left: 2px solid black;
+     border-bottom:  2px solid black;
+
+}
+.snd
+{
+    border: 2px solid black;
+}
+.f
+{
+    border-right: 2px solid black;
+
+}
+
+.fs
+{
+    border-left:  2px solid black;
+}
